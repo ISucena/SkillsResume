@@ -4,6 +4,14 @@ Please click on the drop-down arrows below to see a description of the technical
 
 <h2> Technical Skills </h2>
 
+<details><summary>GitHub</summary>
+<details><summary>PowerBI</summary>
+<details><summary>PowerShell</summary>
+<details><summary>Amazon Web Services (AWS)</summary>
+<details><summary>Linux</summary>
+  
+
+
 
 ### Jekyll Themes
 
