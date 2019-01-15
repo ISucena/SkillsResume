@@ -1,32 +1,9 @@
 ## Tech Skills and Certifications
 
-You can use the [editor on GitHub](https://github.com/reaganhoback/SkillsResume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Please click on the drop-down arrows below to see a description of the technical skills I have acquired and proof of completion for each skill.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2> Technical Skills </h2>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
