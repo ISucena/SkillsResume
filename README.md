@@ -5,10 +5,15 @@ Please click on the drop-down arrows below to see a description of the technical
 <h2> Technical Skills </h2>
 
 <details><summary>GitHub</summary>
+  </details>
 <details><summary>PowerBI</summary>
+   </details>
 <details><summary>PowerShell</summary>
+   </details>
 <details><summary>Amazon Web Services (AWS)</summary>
+   </details>
 <details><summary>Linux</summary>
+   </details>
   
 
 
