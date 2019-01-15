@@ -55,7 +55,7 @@ The 13 GitHub labs include an overview of fundamental GitHub skills including:
    </details>
   <br>
 <h2> Certifications </h2>
-
+<details><summary>COMPTIA Security+</summary>
 
 
 <br>
