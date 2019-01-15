@@ -53,7 +53,8 @@ The 13 GitHub labs include an overview of fundamental GitHub skills including:
   <h4> Description: </h4>
   
    </details>
-  
+  <br>
+<h2> Certifications </h2>
 
 
 
