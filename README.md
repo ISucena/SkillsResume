@@ -29,18 +29,26 @@ The 13 GitHub labs include an overview of fundamental GitHub skills including:
 <img src="GitHubProgress1.jpg" alt="GitHubCompletion1">
 
   </details>
+  
+  <br>
 <details><summary>PowerBI</summary>
   <h4> Description: </h4>
   
    </details>
+   
+   <br>
 <details><summary>PowerShell</summary>
   <h4> Description: </h4>
   
    </details>
+   
+   <br>
 <details><summary>Amazon Web Services (AWS)</summary>
   <h4> Description: </h4>
   
    </details>
+   
+   <br>
 <details><summary>Linux</summary>
   <h4> Description: </h4>
   
