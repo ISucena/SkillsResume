@@ -22,7 +22,7 @@ The 13 GitHub labs include an overview of fundamental GitHub skills including:
 </ul>
 
 <h4> Course Completion: </h4>
-<img src="GH1.png">
+<img src="GH1.png" alt="GitHubCompletion1">
 
 <img src="GH2.png" alt="GitHubCompletion2">
 
