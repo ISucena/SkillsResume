@@ -1,6 +1,6 @@
 ## Tech Skills and Certifications
 
-Please click on the drop-down arrows below to see a description of the technical skills I have acquired and proof of completion for each skill.
+Please click on the drop-down arrows below to see a description of the technical skills I have acquired and proof of completion for each skill. If you do not see the drop-down arrows simply click on the skill name.
 
 <h2> Technical Skills </h2>
 
