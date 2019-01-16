@@ -31,27 +31,80 @@ The 13 GitHub labs include an overview of fundamental GitHub skills including:
   </details>
   
   <br>
+  
 <details><summary>PowerBI</summary>
   <h4> Description: </h4>
-  
+  I completed the PowerBI EdX online training offered on the website:
+https://powerbi.microsoft.com/en-us/learning/
+
+<ul>
+The training include an overview of fundamental PowerBI skills including:
+  <li>a</li>
+  <li>b</li>
+  <li>C</li>
+  <li>d</li>
+  <li>e</li>
+  <li>f</li>
+  <li>g</li>
+  <li>h</li>
+</ul>
    </details>
    
    <br>
 <details><summary>PowerShell</summary>
   <h4> Description: </h4>
-  
+  I completed the PowerShell EdX online training offered on the website:
+https://www.edx.org/courses/windows-powershell-basics-1
+
+<ul>
+The training include an overview of fundamental PowerShell skills including:
+  <li>a</li>
+  <li>b</li>
+  <li>C</li>
+  <li>d</li>
+  <li>e</li>
+  <li>f</li>
+  <li>g</li>
+  <li>h</li>
+</ul>
    </details>
    
    <br>
 <details><summary>Amazon Web Services (AWS)</summary>
   <h4> Description: </h4>
-  
+  I completed the LinuxAcademy's AWS Essentials online training offered on the website:
+https://www.linuxacademy.com
+
+<ul>
+The training include an overview of fundamental AWS skills including:
+  <li>a</li>
+  <li>b</li>
+  <li>C</li>
+  <li>d</li>
+  <li>e</li>
+  <li>f</li>
+  <li>g</li>
+  <li>h</li>
+</ul>
    </details>
    
    <br>
 <details><summary>Linux</summary>
   <h4> Description: </h4>
-  
+  I completed the LinuxAcademy's LIP Essentials online training offered on the website:
+https://www.linuxacademy.com
+
+<ul>
+The training include an overview of fundamental Linux skills including:
+  <li>a</li>
+  <li>b</li>
+  <li>C</li>
+  <li>d</li>
+  <li>e</li>
+  <li>f</li>
+  <li>g</li>
+  <li>h</li>
+</ul>
    </details>
   <br>
 <h2> Certifications </h2>
