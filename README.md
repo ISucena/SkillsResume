@@ -6,8 +6,8 @@ Please click on the drop-down arrows below to see a description of the technical
 
 <details><summary>GitHub</summary>
   <h4> Description: </h4>
-  I completed the GitHub learning lab courses offered on the GitHub website:
-https://lab.github.com/courses 
+  I completed the GitHub learning lab courses offered on the GitHub <li><a href="https://lab.github.com/courses">website</a></li>:
+
 <br>
 <br>
 <ul>
