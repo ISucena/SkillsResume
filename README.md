@@ -12,7 +12,7 @@ https://lab.github.com/courses
 <br>
 <ul>
 The 13 GitHub labs include an overview of fundamental GitHub skills including:
-  <li>Communicating in issues and using Markdown</li>
+    <li>Communicating in issues and using Markdown</li>
   <li>Managing notifications</li>
   <li>Creating branches and making commits</li>
   <li>Introducing changes with pull requests and merging conflicts</li>
