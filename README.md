@@ -6,7 +6,7 @@ Please click on the drop-down arrows below to see a description of the technical
 
 <details><summary>GitHub</summary>
   <h4> Description: </h4>
-  I completed the GitHub learning lab courses offered on the GitHub <a href="https://lab.github.com/courses">website</a>
+  I completed the GitHub learning lab courses offered on the GitHub <a href="https://lab.github.com/courses">website.</a>
 
 <br>
 <br>
@@ -35,7 +35,7 @@ The 13 GitHub labs include an overview of fundamental GitHub skills including:
   
 <details><summary>PowerBI</summary>
   <h4> Description: </h4>
-  I completed the PowerBI EdX online training offered on the Microsoft <a href="https://powerbi.microsoft.com/en-us/learning/">website</a>
+  I completed the PowerBI EdX online training offered on the Microsoft <a href="https://powerbi.microsoft.com/en-us/learning/">website.</a>
 <br>
 <br>
 <ul>
