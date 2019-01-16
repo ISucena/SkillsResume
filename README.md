@@ -50,6 +50,9 @@ The training include an overview of fundamental PowerBI skills including:
   <li>g</li>
   <li>h</li>
 </ul>
+  
+  <h4> Course Completion: </h4>
+<img src="GH1.png" alt="GitHubCompletion1">
    </details>
    
    <br>
@@ -70,6 +73,9 @@ The training include an overview of fundamental PowerShell skills including:
   <li>g</li>
   <li>h</li>
 </ul>
+  
+  <h4> Course Completion: </h4>
+<img src="GH1.png" alt="GitHubCompletion1">
    </details>
    
    <br>
@@ -90,6 +96,9 @@ The training include an overview of fundamental AWS skills including:
   <li>g</li>
   <li>h</li>
 </ul>
+  
+  <h4> Course Completion: </h4>
+<img src="GH1.png" alt="GitHubCompletion1">
    </details>
    
    <br>
@@ -110,6 +119,9 @@ The training include an overview of fundamental Linux skills including:
   <li>g</li>
   <li>h</li>
 </ul>
+  
+  <h4> Course Completion: </h4>
+<img src="GH1.png" alt="GitHubCompletion1">
    </details>
   <br>
 <h2> Certifications </h2>
