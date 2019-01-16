@@ -122,7 +122,8 @@ The training include an overview of fundamental Linux skills including:
   <br>
 <h2> Certifications </h2>
 <details><summary>COMPTIA Security+</summary>
-
+  <h4> Description: </h4>
+  I am working towards the COMPTIA Security+ Certification and studying with <a href="https://www.testout.com">Testout.</a>
 
 <br>
 ### Support or Contact
