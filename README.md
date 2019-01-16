@@ -9,6 +9,7 @@ Please click on the drop-down arrows below to see a description of the technical
   I completed the GitHub learning lab courses offered on the GitHub website:
 https://lab.github.com/courses 
 <br>
+<br>
 <ul>
 The 13 GitHub labs include an overview of fundamental GitHub skills including:
   <li>Communicating in issues and using Markdown</li>
