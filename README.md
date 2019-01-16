@@ -57,7 +57,7 @@ The training include an overview of fundamental PowerBI skills including:
    <br>
 <details><summary>PowerShell</summary>
   <h4> Description: </h4>
-  I completed the PowerShell EdX online training offered on the EdX <a href="https://www.edx.org/courses/windows-powershell-basics-1">website.</a>
+  I completed the PowerShell EdX online training offered on the EdX <a href="https://www.edx.org/course/windows-powershell-basics-1">website.</a>
 <br>
 <br>
 <ul>
