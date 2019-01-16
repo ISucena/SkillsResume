@@ -37,7 +37,8 @@ The 13 GitHub labs include an overview of fundamental GitHub skills including:
   <h4> Description: </h4>
   I completed the PowerBI EdX online training offered on the website:
 https://powerbi.microsoft.com/en-us/learning/
-
+<br>
+<br>
 <ul>
 The training include an overview of fundamental PowerBI skills including:
   <li>a</li>
@@ -56,7 +57,8 @@ The training include an overview of fundamental PowerBI skills including:
   <h4> Description: </h4>
   I completed the PowerShell EdX online training offered on the website:
 https://www.edx.org/courses/windows-powershell-basics-1
-
+<br>
+<br>
 <ul>
 The training include an overview of fundamental PowerShell skills including:
   <li>a</li>
@@ -75,7 +77,8 @@ The training include an overview of fundamental PowerShell skills including:
   <h4> Description: </h4>
   I completed the LinuxAcademy's AWS Essentials online training offered on the website:
 https://www.linuxacademy.com
-
+<br>
+<br>
 <ul>
 The training include an overview of fundamental AWS skills including:
   <li>a</li>
@@ -94,7 +97,8 @@ The training include an overview of fundamental AWS skills including:
   <h4> Description: </h4>
   I completed the LinuxAcademy's LIP Essentials online training offered on the website:
 https://www.linuxacademy.com
-
+<br>
+<br>
 <ul>
 The training include an overview of fundamental Linux skills including:
   <li>a</li>
