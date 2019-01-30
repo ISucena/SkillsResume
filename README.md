@@ -112,7 +112,7 @@ The training include an overview of fundamental Linux skills that prepare you fo
 </ul>
   
   <h4> Course Completion: </h4>
-<img src="LPIcompletion.pdf" alt="LinuxCompletion1">
+<img src="LPIcompletion.png" alt="LinuxCompletion1">
    </details>
   <br>
 <h2> Certifications </h2>
