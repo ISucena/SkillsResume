@@ -101,7 +101,7 @@ The training include an overview of fundamental AWS skills including:
    <br>
 <details><summary>Linux</summary>
   <h4> Description: </h4>
-  I completed the LinuxAcademy's LIP Essentials online training offered on the Linux Academy <a href="https://www.linuxacademy.com">website.</a>
+  I completed the LinuxAcademy's LPI Essentials online training offered on the Linux Academy <a href="https://www.linuxacademy.com">website.</a>
 <br>
 <br>
 <ul>
@@ -117,7 +117,7 @@ The training include an overview of fundamental Linux skills including:
 </ul>
   
   <h4> Course Completion: </h4>
-<img src="Linux1.png" alt="LinuxCompletion1">
+<img src="LPIcompletion.pdf" alt="LinuxCompletion1">
    </details>
   <br>
 <h2> Certifications </h2>
