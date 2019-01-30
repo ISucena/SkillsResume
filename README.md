@@ -32,7 +32,23 @@ The 13 GitHub labs include an overview of fundamental GitHub skills including:
   </details>
   
   <br>
+<details><summary>Linux</summary>
+  <h4> Description: </h4>
+  I completed the LinuxAcademy's LPI Essentials online training offered on the Linux Academy <a href="https://www.linuxacademy.com">website.</a>
+<br>
+<br>
+<ul>
+The training include an overview of fundamental Linux skills that prepare you for the LPI Linux Essentials Certification Exam including:
+  <li>Commonly used command line commands and utilities</li>
+  <li>Identifying different Linux distributions</li>
+  <li>Familiarizing yourself with the various organizations behind operating system software and Linux releases</li>
+</ul>
   
+  <h4> Course Completion: </h4>
+<img src="LPIcompletion.png" alt="LinuxCompletion1">
+   </details>
+   
+   <br>
 <details><summary>PowerBI</summary>
   <h4> Description: </h4>
   I completed the PowerBI EdX online training offered on the Microsoft <a href="https://powerbi.microsoft.com/en-us/learning/">website.</a>
@@ -98,22 +114,6 @@ The training include an overview of fundamental AWS skills including:
 <img src="AWS1.png" alt="AWSCompletion1">
    </details>
    
-   <br>
-<details><summary>Linux</summary>
-  <h4> Description: </h4>
-  I completed the LinuxAcademy's LPI Essentials online training offered on the Linux Academy <a href="https://www.linuxacademy.com">website.</a>
-<br>
-<br>
-<ul>
-The training include an overview of fundamental Linux skills that prepare you for the LPI Linux Essentials Certification Exam including:
-  <li>Commonly used command line commands and utilities</li>
-  <li>Identifying different Linux distributions</li>
-  <li>Familiarizing yourself with the various organizations behind operating system software and Linux releases</li>
-</ul>
-  
-  <h4> Course Completion: </h4>
-<img src="LPIcompletion.png" alt="LinuxCompletion1">
-   </details>
   <br>
 <h2> Certifications </h2>
 <details><summary>COMPTIA Security+</summary>
