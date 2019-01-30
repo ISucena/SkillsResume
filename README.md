@@ -105,15 +105,10 @@ The training include an overview of fundamental AWS skills including:
 <br>
 <br>
 <ul>
-The training include an overview of fundamental Linux skills including:
-  <li>a</li>
-  <li>b</li>
-  <li>C</li>
-  <li>d</li>
-  <li>e</li>
-  <li>f</li>
-  <li>g</li>
-  <li>h</li>
+The training include an overview of fundamental Linux skills that prepare you for the LPI Linux Essentials Certification Exam including:
+  <li>Commonly used command line commands and utilities</li>
+  <li>Identifying different Linux distributions</li>
+  <li>Familiarizing yourself with the various organizations behind operating system software and Linux releases</li>
 </ul>
   
   <h4> Course Completion: </h4>
