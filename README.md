@@ -32,7 +32,7 @@ The 13 GitHub labs include an overview of fundamental GitHub skills including:
   </details>
   
   <br>
-<details><summary>Linux</summary>
+<details><summary>Linux LPI Essentials</summary>
   <h4> Description: </h4>
   I completed the LinuxAcademy's LPI Essentials online training offered on the Linux Academy <a href="https://www.linuxacademy.com">website.</a>
 <br>
