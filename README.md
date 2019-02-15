@@ -56,10 +56,9 @@ The training include an overview of fundamental Linux skills that prepare you fo
 <br>
 <ul>
 The training include an overview of fundamental PowerBI skills including:
-  <li>a</li>
-  <li>b</li>
-  <li>C</li>
-  <li>d</li>
+  <li>Creating visuals from different data sources</li>
+  <li>Using data sources and visuals to form reports and dashboards</li>
+  <li>Creating real-time dashboards with natural language queries</li>
 </ul>
   
   <h4> Course Completion: </h4>
