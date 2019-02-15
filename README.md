@@ -51,7 +51,7 @@ The training include an overview of fundamental Linux skills that prepare you fo
    <br>
 <details><summary>PowerBI</summary>
   <h4> Description: </h4>
-  I completed the PowerBI EdX online training offered on the Microsoft <a href="https://powerbi.microsoft.com/en-us/learning/">website.</a>
+  I completed the PowerBI online training offered on the edX <a href="https://www.edx.org">website.</a>
 <br>
 <br>
 <ul>
@@ -60,14 +60,22 @@ The training include an overview of fundamental PowerBI skills including:
   <li>b</li>
   <li>C</li>
   <li>d</li>
-  <li>e</li>
-  <li>f</li>
-  <li>g</li>
-  <li>h</li>
 </ul>
   
   <h4> Course Completion: </h4>
 <img src="PBI1.png" alt="PowerBICompletion1">
+<img src="PBI2.png" alt="PowerBICompletion2">
+<img src="PBI3.png" alt="PowerBICompletion3">
+<img src="PBI4.png" alt="PowerBICompletion4">
+<img src="PBI5.png" alt="PowerBICompletion5">
+<img src="PBI6.png" alt="PowerBICompletion6">
+<img src="PBI7.png" alt="PowerBICompletion7">
+<img src="PBI8.png" alt="PowerBICompletion8">
+<img src="PBI9.png" alt="PowerBICompletion9">
+<img src="PBI10.png" alt="PowerBICompletion10">
+<img src="PBI11.png" alt="PowerBICompletion11">
+<img src="PBI12.png" alt="PowerBICompletion12">
+<img src="PBI13.png" alt="PowerBICompletion13">
    </details>
    
    <br>
