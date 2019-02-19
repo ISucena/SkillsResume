@@ -116,6 +116,7 @@ The training include an overview of fundamental AWS skills including:
   <li>g</li>
   <li>h</li>
   
+  <br>
    I also completed the AWS Concepts training on Linux Academy.
 </ul>
   
