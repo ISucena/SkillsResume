@@ -120,6 +120,7 @@ The training include an overview of fundamental AWS skills including:
    I also completed the AWS Concepts training on Linux Academy.
   <h4> Course Completion: </h4>
 <img src="AWS1.png" alt="AWSCompletion1">
+<img src="AWSConceptsCompletion.png" alt="AWSConcepts">
    </details>
    
   <br>
