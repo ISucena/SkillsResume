@@ -130,6 +130,9 @@ The training include an overview of fundamental AWS skills including:
   I am working towards the COMPTIA Security+ Certification and studying with <a href="https://www.testout.com">Testout.</a>
 </details>
 <br>
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzYmJiM2EtOGI0Ny00YTUyLWE1MmYtZWJlMTY0ZGIwYjUyIiwidCI6ImQ0ZmYwMTNjLTYyYjctNDE2Ny05MjRmLTViZDkzZTgyMDJkMyIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
