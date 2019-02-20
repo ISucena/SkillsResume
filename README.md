@@ -122,6 +122,15 @@ The training include an overview of fundamental AWS skills including:
 <img src="AWS1.png" alt="AWSCompletion1">
 <img src="AWSConceptsCompletion.png" alt="AWSConcepts">
    </details>
+   <br>
+   
+   <details><summary>VPN</summary>
+  <h4> Description: </h4>
+  I completed the setup for Algo VPN on the GitHub <a href="https://github.com/trailofbits/algo">website.</a>
+
+
+<img src="ReaganAlgoVPN.png" alt="AlgoCompletion">
+   </details>
    
   <br>
 <h2> Certifications </h2>
