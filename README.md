@@ -143,7 +143,10 @@ The training include an overview of fundamental AWS skills including:
 </details>
 <br>
 
+<details><summary>PowerBI Test</summary>
+
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzYmJiM2EtOGI0Ny00YTUyLWE1MmYtZWJlMTY0ZGIwYjUyIiwidCI6ImQ0ZmYwMTNjLTYyYjctNDE2Ny05MjRmLTViZDkzZTgyMDJkMyIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+</details>
 
 ### Support or Contact
 
