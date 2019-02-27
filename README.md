@@ -53,8 +53,10 @@ The training include an overview of fundamental Linux skills that prepare you fo
   <h4> Description: </h4>
   I completed the PowerBI online training offered on the edX <a href="https://www.edx.org">website.</a>
 <br>
+  <br>
   The knowledge checks could not be completed because I was auditing the course.
 <br>
+  <br>
 <ul>
 The training include an overview of fundamental PowerBI skills including:
   <li>Creating visuals from different data sources</li>
