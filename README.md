@@ -39,9 +39,11 @@ The 13 GitHub labs include an overview of fundamental GitHub skills including:
 <br>
 <ul>
 The training include an overview of fundamental Linux skills that prepare you for the LPI Linux Essentials Certification Exam including:
-  <li>Commonly used command line commands and utilities</li>
-  <li>Identifying different Linux distributions</li>
-  <li>Familiarizing yourself with the various organizations behind operating system software and Linux releases</li>
+  <li>The Linux Commuunity and a Career in Open Source</li>
+  <li>Finding Your Way on a Linux System</li>
+  <li>The Power of the Command Line</li>
+  <li>The Linux Operating System</li>
+  <li>Security and File Permissions</li>
 </ul>
   
   <h4> Course Completion: </h4>
