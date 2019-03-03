@@ -79,29 +79,7 @@ The training include an overview of fundamental PowerBI skills including:
 <img src="PBI12.png" alt="PowerBICompletion12">
 <img src="PBI13.png" alt="PowerBICompletion13">
    </details>
-   
-   <br>
-<details><summary>PowerShell</summary>
-  <h4> Description: </h4>
-  I completed the PowerShell EdX online training offered on the EdX <a href="https://www.edx.org/course/windows-powershell-basics-1">website.</a>
-<br>
-<br>
-<ul>
-The training include an overview of fundamental PowerShell skills including:
-  <li>a</li>
-  <li>b</li>
-  <li>C</li>
-  <li>d</li>
-  <li>e</li>
-  <li>f</li>
-  <li>g</li>
-  <li>h</li>
-</ul>
-  
-  <h4> Course Completion: </h4>
-<img src="PS1.png" alt="PowerShellCompletion1">
-   </details>
-   
+ 
    <br>
 <details><summary>Amazon Web Services (AWS)</summary>
   <h4> Description: </h4>
@@ -127,6 +105,28 @@ The training include an overview of fundamental AWS skills including:
    </details>
    <br>
    
+<details><summary>PowerShell</summary>
+  <h4> Description: </h4>
+  I completed the PowerShell EdX online training offered on the EdX <a href="https://www.edx.org/course/windows-powershell-basics-1">website.</a>
+<br>
+<br>
+<ul>
+The training include an overview of fundamental PowerShell skills including:
+  <li>a</li>
+  <li>b</li>
+  <li>C</li>
+  <li>d</li>
+  <li>e</li>
+  <li>f</li>
+  <li>g</li>
+  <li>h</li>
+</ul>
+  
+  <h4> Course Completion: </h4>
+<img src="PS1.png" alt="PowerShellCompletion1">
+   </details>
+   
+   <br>
    <details><summary>VPN</summary>
   <h4> Description: </h4>
   I completed the setup for Algo VPN on the GitHub <a href="https://github.com/trailofbits/algo">website.</a>
