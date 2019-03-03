@@ -88,14 +88,14 @@ The training include an overview of fundamental PowerBI skills including:
 <br>
 <ul>
 The training include an overview of fundamental AWS skills including:
-  <li>a</li>
-  <li>b</li>
-  <li>C</li>
-  <li>d</li>
-  <li>e</li>
-  <li>f</li>
-  <li>g</li>
-  <li>h</li>
+  <li>Managing AWS Access with Users, Groups, and Roles</li>
+  <li>Networking Services and Connectivity</li>
+  <li>Compute Services</li>
+  <li>Storage Services</li>
+  <li>Database Services</li>
+  <li>Monitoring, Alerts, and Notifications</li>
+  <li>Load Balancing, Elasticity, and Scalability</li>
+  <li>Serverless Computing</li>
 </ul>
   <br>
    I also completed the AWS Concepts training on Linux Academy.
