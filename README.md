@@ -99,6 +99,7 @@ The training include an overview of fundamental AWS skills including:
 </ul>
   <br>
    I also completed the AWS Concepts training on Linux Academy.
+  <br>
   <h4> Course Completion: </h4>
 <img src="AWSEssentialsCompletion.png" alt="AWSEssentials">
 <img src="AWSConceptsCompletion.png" alt="AWSConcepts">
