@@ -115,14 +115,11 @@ The training include an overview of fundamental AWS skills including:
 <br>
 <ul>
 The training include an overview of fundamental PowerShell skills including:
-  <li>a</li>
-  <li>b</li>
-  <li>C</li>
-  <li>d</li>
-  <li>e</li>
-  <li>f</li>
-  <li>g</li>
-  <li>h</li>
+  <li>Configuring the Console</li>
+  <li>Learning Basic Commands</li>
+  <li>Learning about the Pipeline</li>
+  <li>Learning about Data Variables and File Systems</li>
+  <li>Formatting</li>
 </ul>
   
   <h4> Course Completion: </h4>
