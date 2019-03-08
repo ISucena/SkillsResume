@@ -130,9 +130,9 @@ The training include an overview of fundamental PowerShell skills including:
    <details><summary>VPN</summary>
   <h4> Description: </h4>
   I completed the setup for Algo VPN on the GitHub <a href="https://github.com/trailofbits/algo">website.</a>
-
-
+  
 <img src="ReaganAlgoVPN.png" alt="AlgoCompletion">
+<img src="ReaganOpenVPN.png" alt="OVPNCompletion">
    </details>
    
   <br>
