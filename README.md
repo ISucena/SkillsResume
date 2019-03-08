@@ -133,7 +133,8 @@ The training include an overview of fundamental PowerShell skills including:
   
 <img src="ReaganAlgoVPN.png" alt="AlgoCompletion">
 <br>
- I also attempted the setup for OpenVPN on Digital Oceans's <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04">website,</a> but was unsuccessful
+<br>
+ I also attempted the setup for OpenVPN on Digital Oceans's <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04">website,</a> but was unsuccessful.
 <img src="ReaganOpenVPN.png" alt="OVPNCompletion">
    </details>
    
