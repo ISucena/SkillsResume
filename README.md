@@ -123,7 +123,7 @@ The training include an overview of fundamental PowerShell skills including:
 </ul>
   
   <h4> Course Completion: </h4>
-<img src="PS1.png" alt="PowerShellCompletion1">
+<img src="PowershellCompletion.png" alt="PowerShellCompletion1">
    </details>
    
    <br>
