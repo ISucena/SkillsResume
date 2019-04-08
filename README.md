@@ -7,6 +7,7 @@ Please click on the drop-down arrows below to see a description of the technical
 <details><summary>GitHub</summary>
   <h4> Description: </h4>
   I completed the GitHub learning lab courses offered on the GitHub <a href="https://lab.github.com/courses">website.</a>
+  The courses helped me develop skills in creating pages such as this and publishing them to GitHub.
 
 <br>
 <br>
