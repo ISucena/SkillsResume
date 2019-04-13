@@ -132,6 +132,7 @@ The training include an overview of fundamental PowerShell skills including:
   <h4> Description: </h4>
   I completed the setup for Algo VPN on the GitHub <a href="https://github.com/trailofbits/algo">website.</a> This taught me how to set up a personal IPSEC VPN in the cloud. The setup was done using ansible scripts provided on GitHub. Completing this setup helped reinforce skills learned in previous tech skill courses.
   
+  <h4> Course Completion: </h4>
 <img src="ReaganAlgoVPN.png" alt="AlgoCompletion">
 <br>
 <br>
