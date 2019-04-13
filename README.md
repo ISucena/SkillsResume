@@ -103,6 +103,8 @@ The training include an overview of fundamental AWS skills including:
   
    I also completed the AWS Concepts training on Linux Academy.
   <br>
+  <br>
+  
   <h4> Course Completion: </h4>
 <img src="AWSEssentialsCompletion.png" alt="AWSEssentials">
 <img src="AWSConceptsCompletion.png" alt="AWSConcepts">
@@ -132,12 +134,14 @@ The training include an overview of fundamental PowerShell skills including:
   <h4> Description: </h4>
   I completed the setup for Algo VPN on the GitHub <a href="https://github.com/trailofbits/algo">website.</a> This taught me how to set up a personal IPSEC VPN in the cloud. The setup was done using ansible scripts provided on GitHub. Completing this setup helped reinforce skills learned in previous tech skill courses.
   <br>
+  
   <h4> Setup Completion: </h4>
 <img src="ReaganAlgoVPN.png" alt="AlgoCompletion">
 <br>
 <br>
  I also attempted the setup for OpenVPN on Digital Ocean's <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04">website,</a> but was unsuccessful. After following the directions closely several times, I was still unable to get my VPN to work correctly. The desktop app would confirm I was successfully connected, but when I would check my IP online it would say it had not changed. This setup also helped reinforce skills learned in previous tech skill courses even though it didn't work properly.
  <br>
+ 
  <h4> Setup Completion: </h4>
 <img src="ReaganOpenVPN.png" alt="OVPNCompletion">
    </details>
