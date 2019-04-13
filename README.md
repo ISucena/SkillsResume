@@ -7,7 +7,7 @@ Please click on the drop-down arrows below to see a description of the technical
 <details><summary>GitHub</summary>
   <h4> Description: </h4>
   I completed the GitHub learning lab courses offered on the GitHub <a href="https://lab.github.com/courses">website.</a>
-  The courses helped me develop skills in creating pages such as this and publishing them to GitHub.
+  The courses helped me develop skills in creating pages such as this using GitHub pages and publishing them to GitHub.
 
 <br>
 <br>
@@ -35,7 +35,7 @@ The 13 GitHub labs include an overview of fundamental GitHub skills including:
   <br>
 <details><summary>Linux</summary>
   <h4> Description: </h4>
-  I completed the LinuxAcademy's LPI Essentials online training offered on the Linux Academy <a href="https://www.linuxacademy.com">website.</a>
+  I completed the LinuxAcademy's LPI Essentials online training offered on the Linux Academy <a href="https://www.linuxacademy.com">website.</a> The training gave videos, labs, and quizzes that taught and tested you on key fundamentals in Linux. The training started with the history of how Linux was created and gave an overview of several distributions. There was also a walkthrough lab to teach you how to install CentOS using VirtualBox.
 <br>
 <br>
 <ul>
