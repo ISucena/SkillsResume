@@ -111,7 +111,7 @@ The training include an overview of fundamental AWS skills including:
    
 <details><summary>PowerShell</summary>
   <h4> Description: </h4>
-  I completed the PowerShell EdX online training offered on the EdX <a href="https://www.edx.org/course/windows-powershell-basics-1">website.</a>
+  I completed the PowerShell EdX online training offered on the EdX <a href="https://www.edx.org/course/windows-powershell-basics-1">website.</a> This training gave lectures and labs that focused on the fundamentals of configuring the console and ISE layout with admin privileges as well as learning basic commands. There was a large emphasis on learning about where to find information on commands such as syntax and examples of how to use the command by using the Get-Help command.
 <br>
 <br>
 <ul>
@@ -130,12 +130,12 @@ The training include an overview of fundamental PowerShell skills including:
    <br>
    <details><summary>VPN</summary>
   <h4> Description: </h4>
-  I completed the setup for Algo VPN on the GitHub <a href="https://github.com/trailofbits/algo">website.</a>
+  I completed the setup for Algo VPN on the GitHub <a href="https://github.com/trailofbits/algo">website.</a> This taught me how to set up a personal IPSEC VPN in the cloud. The setup was done using ansible scripts provided on GitHub. Completing this setup helped reinforce skills learned in previous tech skill courses.
   
 <img src="ReaganAlgoVPN.png" alt="AlgoCompletion">
 <br>
 <br>
- I also attempted the setup for OpenVPN on Digital Ocean's <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04">website,</a> but was unsuccessful.
+ I also attempted the setup for OpenVPN on Digital Ocean's <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04">website,</a> but was unsuccessful. After following the directions closely several times, I was still unable to get my VPN to work correctly. The desktop app would confirm I was successfully connected, but when I would check my IP online it would say it had not changed. This setup also helped reinforce skills learned in previous tech skill courses even though it didn't work properly.
 <img src="ReaganOpenVPN.png" alt="OVPNCompletion">
    </details>
    
