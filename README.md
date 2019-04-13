@@ -136,6 +136,8 @@ The training include an overview of fundamental PowerShell skills including:
 <br>
 <br>
  I also attempted the setup for OpenVPN on Digital Ocean's <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04">website,</a> but was unsuccessful. After following the directions closely several times, I was still unable to get my VPN to work correctly. The desktop app would confirm I was successfully connected, but when I would check my IP online it would say it had not changed. This setup also helped reinforce skills learned in previous tech skill courses even though it didn't work properly.
+ 
+ <h4> Course Completion: </h4>
 <img src="ReaganOpenVPN.png" alt="OVPNCompletion">
    </details>
    
