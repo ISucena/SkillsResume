@@ -54,7 +54,7 @@ The training include an overview of fundamental Linux skills that prepare you fo
    <br>
 <details><summary>PowerBI</summary>
   <h4> Description: </h4>
-  I completed the PowerBI online training offered on the edX <a href="https://www.edx.org">website.</a>
+  I completed the PowerBI online training offered on the edX <a href="https://www.edx.org">website.</a> This course went through the basics of how to create a report and dashboard using a dataset in Excel or from their library of data templates. The course also walked you through publishing the data to the PowerBI website from your desktop app so that it could be shared with others in your organization of your choosing.
 <br>
   <br>
   The knowledge checks could not be completed because I was auditing the course.
