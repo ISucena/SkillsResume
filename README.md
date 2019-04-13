@@ -86,7 +86,7 @@ The training include an overview of fundamental PowerBI skills including:
    <br>
 <details><summary>Amazon Web Services (AWS)</summary>
   <h4> Description: </h4>
-  I completed the LinuxAcademy's AWS Essentials online training offered on the Linux Academy <a href="https://www.linuxacademy.com">website.</a>
+  I completed the LinuxAcademy's AWS Essentials online training offered on the Linux Academy <a href="https://www.linuxacademy.com">website.</a> The training gave videos, labs, and quizzes that taught and tested you on key fundamentals in AWS. The training walked through each of the 12 sections of Project Omega 2.0 and reviewed how each section was completed at the end of the lectures. The labs also walked you through setting up your own instances, NACLs, subnets, and several other key parts of AWS. 
 <br>
 <br>
 <ul>
