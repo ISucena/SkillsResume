@@ -158,6 +158,7 @@ The training include an overview of fundamental PowerShell skills including:
 
  <h4> Completion: </h4>
 <a href="https://www.youtube.com/watch?v=wJMBpLIGReI">Video</a>
+<img src="PBIR.png" alt="PBIRCompletion">
 <img src="PBID1.png" alt="PBIDCompletion">
 <img src="PBID2.png" alt="PBIDCompletion">
 <img src="PBID3.png" alt="PBIDCompletion">
