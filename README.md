@@ -149,6 +149,13 @@ The training include an overview of fundamental PowerShell skills including:
 <img src="ReaganOpenVPN.png" alt="OVPNCompletion">
    </details>
    
+   <details><summary>PowerBI Dashboard</summary>
+  
+  
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzYmJiM2EtOGI0Ny00YTUyLWE1MmYtZWJlMTY0ZGIwYjUyIiwidCI6ImQ0ZmYwMTNjLTYyYjctNDE2Ny05MjRmLTViZDkzZTgyMDJkMyIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+</details>
+   
   <br>
 <h2> Certifications </h2>
 <details><summary>COMPTIA Security+</summary>
@@ -157,10 +164,7 @@ The training include an overview of fundamental PowerShell skills including:
 </details>
 <br>
 
-<details><summary>PowerBI Test</summary>
 
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzYmJiM2EtOGI0Ny00YTUyLWE1MmYtZWJlMTY0ZGIwYjUyIiwidCI6ImQ0ZmYwMTNjLTYyYjctNDE2Ny05MjRmLTViZDkzZTgyMDJkMyIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
-</details>
 
 ### Support or Contact
 
