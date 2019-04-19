@@ -153,7 +153,7 @@ The training include an overview of fundamental PowerShell skills including:
   <h4> Description: </h4>
   Below is a link to a Youtube video presentation of my dashboard as well as screenshots of the report and dashboard components. I created the dashboard using sample sales and marketing data provided by Microsoft. 
 
-Video: https://www.youtube.com/watch?v=wJMBpLIGReI
+<a href=https://www.youtube.com/watch?v=wJMBpLIGReI>Video</a>
 
 </details>
    
