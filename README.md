@@ -148,12 +148,13 @@ The training include an overview of fundamental PowerShell skills including:
  <h4> Setup Completion: </h4>
 <img src="ReaganOpenVPN.png" alt="OVPNCompletion">
    </details>
-   
+   <br>
    <details><summary>PowerBI Dashboard</summary>
-  
-  
+  <h4> Description: </h4>
+  Below is a link to a Youtube video presentation of my dashboard as well as screenshots of the report and dashboard components. I created the dashboard using sample sales and marketing data provided by Microsoft. 
 
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzYmJiM2EtOGI0Ny00YTUyLWE1MmYtZWJlMTY0ZGIwYjUyIiwidCI6ImQ0ZmYwMTNjLTYyYjctNDE2Ny05MjRmLTViZDkzZTgyMDJkMyIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+Video: https://www.youtube.com/watch?v=wJMBpLIGReI
+
 </details>
    
   <br>
