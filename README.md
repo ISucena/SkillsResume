@@ -25,9 +25,7 @@ The 13 GitHub labs include an overview of fundamental GitHub skills including:
 
 <h4> Course Completion: </h4>
 <img src="GH1.png" alt="GitHubCompletion1">
-
 <img src="GH2.png" alt="GitHubCompletion2">
-
 <img src="GH3.png" alt="GitHubCompletion3">
 
   </details>
@@ -158,6 +156,7 @@ The training include an overview of fundamental PowerShell skills including:
 
  <h4> Completion: </h4>
 <a href="https://www.youtube.com/watch?v=wJMBpLIGReI">Video</a>
+<br>
 <img src="PBIR.png" alt="PBIRCompletion">
 <img src="PBID1.png" alt="PBIDCompletion">
 <img src="PBID2.png" alt="PBIDCompletion">
